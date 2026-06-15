@@ -37,7 +37,7 @@ Secondary aim: To use elevation and rainfall data, together with knowledge of lo
   - Though urban areas contain more impermeable surfaces than vegetation or agricultural/bare land, they remained flooded for the shortest duration. This could be because of the existing drainage systems and active flood clearance efforts.
 - Precipitation peaked in Dec 2016 and remained high through Jan 2017, caused by the northeastern monsoon [8]. This aligns with the flood timeline and suggests that heavy precipitation likely contributed to the flooding.
 
-Fuller interpretations are provided in the notebook
+Fuller interpretations are provided in the notebook `Sentinel_1_Flood_Duration.ipynb`.
 
 
 ## Limitations

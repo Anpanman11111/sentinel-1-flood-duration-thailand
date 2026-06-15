@@ -48,7 +48,7 @@ Fuller interpretations are provided in the notebook `Sentinel_1_Flood_Duration.i
 
 
 ## Tools used
-- Google Earth Engine (Python API)
+- Google Earth Engine (Python API): Users must have a Google Earth Engine account
 - xee / xarray: converting ImageCollections into arrays for time-series analysis
 - pandas / numpy: calculations
 - matplotlib: plotting outputs
